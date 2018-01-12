@@ -1,0 +1,134 @@
+/****Guest Post Author Widget*****/
+.et-guest-post-author-box {
+background: #fff;
+margin: 5px 0 16px 0;
+padding: 10px;
+border: 1px solid #e3e3e3;
+border-radius:5px;
+box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);position:relative;padding:15px 20px 12px;margin:0 0 10px};
+font-family:Patua One;font-size:14px;line-height:1.6;color:#000000;
+}
+.et-guest-post-author-box p {
+margin: 0px;
+padding: 0px;
+}
+.et-guest-post-author-box img {
+background: #FFFFFF;
+float: center;
+margin: 0 10px 0 0;
+padding: 5px;
+}
+
+
+.breadcrumbs{padding:5px 5px 5px 0;margin:0 0 15px 0;font-size:95%;font-family:Patua One;line-height:1.4em;text-align: left;border-bottom:3px double #e6e4e3;border:ridge 2px #b3ca88;padding:1em;background-color:#ffffff;border-radius:3px;border:none!important;box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);font-size:.9em;font-style:bold;color:#000000}
+.breadcrumbs{font-size:20px}
+.breadcrumbs span > a {color:#2ecc71}
+.breadcrumbs span > a:hover {color:#0631DD;text-decoration:none}
+.breadcrumbs > span {color:#0000000;text-align:left;line-height:1.4em}
+
+
+.mobile-heading{background:#3e9856;border-bottom:4px solid #f16200;border-radius:4px;overflow:hidden;color:#fff;font-size:16px;text-align:center;font-weight:bold;line-height:1.8em;font-family:Patua One;text-shadow:1px 1px 1px #000}
+
+
+.pace .pace-progress {
+  background-color: transparent!important;
+}
+div#ContactForm1 {
+  display: none !important;
+}
+.post-body {
+ -webkit-user-select : none ;
+ -khtml-user-select : none ;
+ -moz-user-select : none ;
+ -ms-user-select : none ;
+ user-select : none ;
+}
+
+/* CSS Material Dz */
+ .related-post-item-tooltip{height:54px;overflow:hidden;width:100%;float:center;text-overflow:ellipsis;padding:10px}#related-post .material-icons{font-size:200%;right:20px;color:#607D8B;top:-1px;position:absolute}#related-post{background:#fff;margin:0px}.related-post{margin:10px 0 0;position:relative;padding:1px 1px 1px!important}.lol h4 i,.related-post h4 i{margin-right:14px}.lol h4,.related-post h4{border-radius:4px;color:#555;border-bottom:2px solid #3e9856;font-size:16px;font-family:Patua One;text-transform:uppercase;text-align:left;font-weight:bold;box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);position:relative;padding:15px 20px 12px;margin:0 0 10px;text-shadow:1px 1px 1px}.related-post-style-3,.related-post-style-3 li{margin:0 auto;padding:0!important;list-style:none;word-wrap:break-word}.related-post-style-3 li a{font-family:'Roboto',sans-serif;color:#666;font-weight:700!important;font-size:14px;line-height:1.4em}.related-post-style-3 li a:hover{color:#111}.related-post-style-3 .related-post-item{display:inline-block;float:center;border-radius:3px;border:none!important;box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);width:35%;margin-left:10px!important;margin-right:0px!important;height:auto;padding:0;margin-bottom:1px!important;position:relative;overflow:hidden}.related-post-style-3 .related-post-item:focus{outline:none;border:none}.related-post-style-3 .related-post-item-thumbnail{display:block;margin-left:3px!important;margin:0;width:100%;height:100px;float:center}.related-post-style-3 .related-post-item-thumbnail img{width:100%;height:auto!important;transition:all 1s ease-out}.related-post-item:hover .related-post-item-tooltip a{opacity:1}.related-post-item-tooltip a{color:#666!important;transition:transform .6s cubic-bezier(.175,.885,.32,1.275),opacity .3s;text-align:center;font-size:12px!important;position:relative}@media screen and (max-width:480px){.related-post-style-3 .related-post-item{width:46%!important}.related-post-style-3 .related-post-item-thumbnail{height:100px!important}}
+
+div#ContactForm1 {
+    display: none !important;
+}
+
+/* Post Table by Rolex Haris */
+.post-body table {width:100%;}
+.post-body table td, .post-body table caption{border:1px solid #F1F1F1;padding:10px;text-align:left;vertical-align:top;}
+.post-body table th {border:1px solid #e6e6e6;padding:10px;text-align:left;vertical-align:top;}
+.post-body table.tr-caption-container {border:1px solid #eee;}
+.post-body th{font-weight:700;}
+.post-body table caption{border:none;font-style:italic;}
+.post-body td, .post-body th{vertical-align:top;text-align:left;font-size:13px;padding:3px 5px;border:1px solid #eee;}
+.post-body th{background:#56af55; color:#181818;}
+.post-body th:hover{background:#2AA4D1;}
+.post-body td a{color:#444;}
+.post-body td a:hover{color:#FEFEFE;}
+.post-body table.tr-caption-container td {border:none;padding:8px;}
+.post-body table.tr-caption-container, .post-body table.tr-caption-container img, .post-body img {max-width:100%;height:auto;}
+.post-body td.tr-caption {color:#666;font-size:80%;padding:0px 8px 8px !important;}
+
+
+/* Up and Down Buttons with jQuery----------------------------------------------- */.button_up{padding:7px; /* Distance between the border and the icon */background-color:white;border:1px solid #CCC; /* Border Color */position:fixed;background: white url(https://4.bp.blogspot.com/-7zE5N9GdDUk/T6rH17KE6II/AAAAAAAACeQ/aEcKRyEhxsE/s16/arrow_up.png) no-repeat top left;background-position:50% 50%;width:20px; /* Button's width */height:20px; /* Button's height */bottom:80px; /* Distance from the bottom */right:5px; /* Change right to left if you want the buttons on the left */white-space:nowrap;cursor: pointer;border-radius: 3px 3px 3px 3px;opacity:0.5;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=70);}.button_down{padding:7px; /* Distance between the border and the icon */background-color:white;border:1px solid #CCC; /* Border Color */position:fixed;background: white url(https://3.bp.blogspot.com/-sukwuViZaYY/T6rH15A8niI/AAAAAAAACeM/YErd0S8lPGA/s16/arrow_down.png) no-repeat top left;background-position:50% 50%;width:20px; /* Button's width */height:20px; /* Button's height */bottom:40px; /* Distance from the bottom */right:5px; /* Change right to left if you want the buttons on the left */white-space:nowrap;cursor: pointer;border-radius: 3px 3px 3px 3px;opacity:0.5;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=70);} /* End Back to Up and Down Buttons. ----------------------------------------------- */
+/*Comment notice Start*/ #threaded-comment-form p { position: relative; border-radius:4px;box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12); background: #FFF; border: 1px solid #CCC;  padding: 10px; font-size: 15px; line-height: 1.6em; color: #444; margin-top: 10px; font-size: 11px;border-radius:2px; } #threaded-comment-form p::after, #threaded-comment-form p::before { top: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none } #threaded-comment-form p::before { border-top-color: #FFF; border-width: 10px; right: 10%; margin-right: -30px; } #threaded-comment-form p::after { border-top-color: #FFF; border-width: 10px; left: 10%; margin-left: -30px }
+/**Ends---------------*/
+
+ 
+.widget {
+    margin: 0px 0 0 0;
+}.post-body img {
+ max-width: 100%;
+ max-height: auto;
+ display: block;
+ margin: auto;
+ box-shadow: none;
+ border: none;
+ padding: 0px;
+ }
+
+
+.iklan{height:2px;background-color:#093;background-image:linear-gradient(to right,#00a5e6,#ff0033,#008000,#00ced1,#daa520)}. 
+
+.post ol li{position:relative;margin:0 0 20px 15px!important;padding:4px 5px 4px 10px!important;list-style:none;*list-style:decimal;border-bottom:1px solid #e2e3e2;background:transparent;text-indent:14px}
+
+.post ol li:before{content:counter(li);counter-increment:li;position:absolute;top:-6px;left:-8px;font-family:'Oswald',Roboto;font-size:14px;width:auto;margin:0 0 10px -4px;padding:3px!important;color:#fff;text-align:left;background:#008000;text-indent:5px}
+
+.post ol li:after{content:"";position:absolute;top:-5px;left:17px;width:0;height:0;border-style:solid;border-width:5px 0 0 5px;border-color:transparent transparent transparent #008000} 
+
+.block-title{margin-bottom:5px;margin-top:6px;position:relative;width:90%;font-family:"Patua One";text-transform:none;font-weight:400;font-style:bold;opacity:1;visibility:visible;transition:opacity .24s ease-in-out 0s;font-size:18px;line-heigh:22px;padding-left:0;text-shadow:1px 1px 1px #000} 
+
+.block-title span{color:#1BA691;padding:5px 10px;background:-webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,#fff),color-stop(100%,#3e9856));background:-webkit-linear-gradient(top,#fff,#fff);background:-moz-linear-gradient(top,#daa520,#daa520);background:-o-linear-gradient(top,#daa520,#daa520);background:linear-gradient(top,#daa520,#daa520);-moz-border-radius-topleft:0px;-webkit-border-top-left-radius:0px;border-top-left-radius:4px;-moz-border-radius-topright:4px;-webkit-border-top-right-radius:4px;border-top-right-radius:4px;margin-bottom:0; box-shadow:2px 2px 2px #000}
+
+.post ol li{position:relative;display:block;padding:.4em .4em .4em .8em;*padding:.4em;margin:.5em 0 .5em 4.5em;text-decoration:none}.post ol li:before{content:counter(li);counter-increment:li;position:absolute;left:-30px;top:50%;margin-top:-1em;background:#2ecc71;color:#fff;height:2em;width:2em;line-height:2em;text-align:center;font-weight:bold}.post ol{counter-reset:li;list-style:none;*list-style:decimal;margin-left:0;padding-left:0}.post ol li{position:relative;margin:0 0 20px 15px!important;padding:4px 5px 4px 10px!important;list-style:none;*list-style:decimal;border-bottom:1px solid #e2e3e2;background:transparent;text-indent:14px}.post ol li:before{content:counter(li);counter-increment:li;position:absolute;top:-6px;left:-8px;font-family:'Oswald',Roboto;font-size:14px;width:auto;margin:0 0 10px -4px;padding:3px!important;color:#fff;text-align:left;background:#2ecc71;text-indent:5px}.post ol li:after{content:"";position:absolute;top:-5px;left:17px;width:0;height:0;border-style:solid;border-width:5px 0 0 5px;border-color:transparent transparent transparent #2ecc71}.post-body{-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+
+
+#share-button{margin:0 0 8px;padding:0;overflow:hidden}#share-button p{float:left;box-shadow:1px 1px 5px rgba(1,1,1,.1);background:#fafafa;display:block;padding:5px 8px!important;margin:0 3px 3px 0;border-radius:6px 6px;border:1px solid #fff}#share-button a{position:relative;float:left;box-shadow:1px 1px 5px rgba(1,1,1,.1);border-radius:6px 6px;display:block;color:#fafafa;padding:5px 8px;margin:0 3px 3px;border:1px solid #fff}#share-button a:hover{top:1px;left:1px;box-shadow:0 0 3px rgba(1,1,1,.1)}
+}.social-buttons{margin:20px auto 20px auto;clear:both}.social{list-style:none;line-height:32px;text-align:center;font-size:26px}.social-buttons ul{margin:0px}.social li{display:inline;margin:0px;-webkit-transition-property:opacity;-webkit-transition-duration:500ms;-moz-transition-property:opacity;-moz-transition-duration:500ms}.social li a{color:#008E4C;text-decoration:none;text-shadow:2px 2px 0 rgba(0,0,0, 0.1);padding:8px}.social:hover li{opacity:0.2}.social li:hover{opacity:1;transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out}.social{list-style:none;line-height:32px;text-align:center;font-size:26px}
+
+ #linkshare{text-align:left;margin-top:2em; padding-bottom:5px;color:#4dc247;}
+
+#scroll {
+display: none;
+position: fixed;
+top: 0;
+left: 15px;
+z-index: 500;
+padding: 3px 8px;
+background-color: transparent!important;
+color: #008E4C;
+border-radius: 3px;
+font-size:14px;text-shadow:1px 1px 1px #fff}
+}
+#scroll:after {
+content: ” ”;
+position: absolute;
+top: 50%;
+left: 
+-10px;
+height: 0;
+width: 0;
+margin-top: -6px;
+border: 6px solid transparent;
+border-left-color: #008E4C;
+} 
+#techz-button{box-shadow:1px 1px 5px rgba(1,1,1,.1);background:#fafafa;display:block;padding:5px 8px!important;margin:0 3px 3px 0;border-radius:6px 6px;border:1px solid #fff}#techz-button a{position:relative;box-shadow:1px 1px 5px rgba(1,1,1,.1);border-radius:6px 6px;display:block;color:#fafafa;padding:5px 8px;margin:0 3px 3px;border:1px solid #fff}#techz-button a:hover{top:1px;left:1px;box-shadow:0 0 3px rgba(1,1,1,.1)}
+}
